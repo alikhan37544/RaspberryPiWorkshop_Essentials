@@ -1,5 +1,7 @@
 from tkinter import *
 
+## this is for tejha
+
 root = Tk()
 
 root.title("Mini Project")
