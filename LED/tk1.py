@@ -1,4 +1,5 @@
 from tkinter import *
+from grovepi import *
 
 ## this is for tejha
 
@@ -10,3 +11,4 @@ customfont = ("Arial",20)
 lbl = Label(root,text = "Welcome to the our program??",font=customfont)
 lbl.pack(side="top")
 root.mainloop()
+
